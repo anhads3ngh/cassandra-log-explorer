@@ -1,0 +1,60 @@
+INFO  [MessagingService-3] 2026-10-31 15:00:21,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:00:40,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:00:59,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:01:18,000 CommitLog.java:177 - Commit log segment recycled successfully
+INFO  [MessagingService-3] 2026-10-31 15:01:37,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:01:56,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:02:15,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:02:34,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:02:53,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:03:12,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:03:31,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:03:50,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:04:09,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:04:28,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:04:47,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+DEBUG  [MessagingService-3] 2026-10-31 15:05:06,000 MessagingService.java:890 - Outbound connection pool refreshed
+INFO  [MessagingService-3] 2026-10-31 15:05:25,000 CommitLog.java:177 - Commit log segment recycled successfully
+INFO  [MessagingService-3] 2026-10-31 15:05:44,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:06:03,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:06:22,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:06:41,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:07:00,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+ERROR  [MessagingService-3] 2026-10-31 15:07:19,000 HintsService.java:310 - Failed to dispatch hints to replica; retry scheduled
+DEBUG  [MessagingService-3] 2026-10-31 15:07:38,000 MessagingService.java:890 - Outbound connection pool refreshed
+WARN  [MessagingService-3] 2026-10-31 15:07:57,000 ReadTimeoutException.java:88 - Read timeout at consistency LOCAL_QUORUM; tracing request
+WARN  [MessagingService-3] 2026-10-31 15:08:16,000 ReadTimeoutException.java:88 - Read timeout at consistency LOCAL_QUORUM; tracing request
+INFO  [MessagingService-3] 2026-10-31 15:08:35,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:08:54,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:09:13,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:09:32,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+ERROR  [MessagingService-3] 2026-10-31 15:09:51,000 HintsService.java:310 - Failed to dispatch hints to replica; retry scheduled
+INFO  [MessagingService-3] 2026-10-31 15:10:10,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+INFO  [MessagingService-3] 2026-10-31 15:10:29,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+DEBUG  [MessagingService-3] 2026-10-31 15:10:48,000 MessagingService.java:890 - Outbound connection pool refreshed
+ERROR  [MessagingService-3] 2026-10-31 15:11:07,000 StorageProxy.java:2212 - UnavailableException: required 2 replicas but only 1 alive
+INFO  [MessagingService-3] 2026-10-31 15:11:26,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+ERROR  [MessagingService-3] 2026-10-31 15:11:45,000 StorageProxy.java:2212 - UnavailableException: required 2 replicas but only 1 alive
+INFO  [MessagingService-3] 2026-10-31 15:12:04,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+ERROR  [MessagingService-3] 2026-10-31 15:12:23,000 StorageProxy.java:2212 - UnavailableException: required 2 replicas but only 1 alive
+DEBUG  [MessagingService-3] 2026-10-31 15:12:42,000 MessagingService.java:890 - Outbound connection pool refreshed
+DEBUG  [MessagingService-3] 2026-10-31 15:13:01,000 MessagingService.java:890 - Outbound connection pool refreshed
+INFO  [MessagingService-3] 2026-10-31 15:13:20,000 CommitLog.java:177 - Commit log segment recycled successfully
+INFO  [MessagingService-3] 2026-10-31 15:13:39,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:13:58,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:14:17,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+WARN  [MessagingService-3] 2026-10-31 15:14:36,000 GCInspector.java:190 - GC pause exceeded threshold 250ms
+ERROR  [MessagingService-3] 2026-10-31 15:14:55,000 StorageProxy.java:2212 - UnavailableException: required 2 replicas but only 1 alive
+WARN  [MessagingService-3] 2026-10-31 15:15:14,000 GCInspector.java:190 - GC pause exceeded threshold 250ms
+INFO  [MessagingService-3] 2026-10-31 15:15:33,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:15:52,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+ERROR  [MessagingService-3] 2026-10-31 15:16:11,000 HintsService.java:310 - Failed to dispatch hints to replica; retry scheduled
+DEBUG  [MessagingService-3] 2026-10-31 15:16:30,000 MessagingService.java:890 - Outbound connection pool refreshed
+ERROR  [MessagingService-3] 2026-10-31 15:16:49,000 HintsService.java:310 - Failed to dispatch hints to replica; retry scheduled
+WARN  [MessagingService-3] 2026-10-31 15:17:08,000 GCInspector.java:190 - GC pause exceeded threshold 250ms
+ERROR  [MessagingService-3] 2026-10-31 15:17:27,000 HintsService.java:310 - Failed to dispatch hints to replica; retry scheduled
+WARN  [MessagingService-3] 2026-10-31 15:17:46,000 GCInspector.java:190 - GC pause exceeded threshold 250ms
+INFO  [MessagingService-3] 2026-10-31 15:18:05,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
+ERROR  [MessagingService-3] 2026-10-31 15:18:24,000 StorageProxy.java:2212 - UnavailableException: required 2 replicas but only 1 alive
+INFO  [MessagingService-3] 2026-10-31 15:18:43,000 CompactionManager.java:426 - Compaction completed for keyspace animation_assets
+INFO  [MessagingService-3] 2026-10-31 15:19:02,000 StorageService.java:775 - Node joined token ring; gossip state synchronized
